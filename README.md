@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I’m currently working on a **Machine Learning project** focused on **Bankruptcy Prevention** in classification.<br>- 🌱 I’m currently learning the end-to-end **Data Science** lifecycle through my course at **ExcelR**, focusing on deep-diving into data intuition and understanding the strategic role of a Data Scientist.<br>- 💬 Ask me about how to turn messy raw data into a clear story through **Data Visualization**.<br>- ⚡ Fun fact: I actually enjoy the 'data cleaning' phase—it’s like solving a puzzle before you get the prize.<br>
+### Hi there 👋<br><br>- 🚀 I am an aspiring **Data Scientist** currently mastering the end-to-end data science lifecycle.<br>- 🌱 I am deepening my expertise through comprehensive training at **ExcelR**, focusing on building strong data intuition and understanding strategic business roles.<br>- 📊 Ask me about how to transform messy raw data into clear, actionable stories through impact-driven **Data Visualization**.<br>- ⚡ Fun fact: I actually enjoy the 'data cleaning' phase—it feels like solving a puzzle before uncovering the prize.<br>
 
 
 ## 🌐 Socials:
