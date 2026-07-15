@@ -1,6 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
-### Hi there 👋<br><br>- 🚀 I am an aspiring **Data Scientist** currently mastering the end-to-end data science lifecycle.<br>-🌱 I am deepening my expertise through comprehensive training at **ExcelR**, focusing on building strong data intuition and understanding strategic business roles.<br>-📊 Ask me about how to transform messy raw data into clear, actionable stories through impact-driven **Data Visualization**.<br>-⚡ Fun fact: I actually enjoy the 'data cleaning' phase—it feels like solving a puzzle before uncovering the prize.<br>
+### Hi there 👋
+
+*   🚀 I am an aspiring **Data Scientist** currently mastering the end-to-end data science lifecycle.
+*   🌱 I am deepening my expertise through comprehensive training at **ExcelR**, focusing on building strong data intuition and understanding strategic business roles.
+*   📊 Ask me about how to transform messy raw data into clear, actionable stories through impact-driven **Data Visualization**.
+*   ⚡ Fun fact: I actually enjoy the 'data cleaning' phase—it feels like solving a puzzle before uncovering the prize.
 
 
 ## 🌐 Socials:
